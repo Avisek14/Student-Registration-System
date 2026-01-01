@@ -1,6 +1,7 @@
 let students = JSON.parse(localStorage.getItem("students")) || [];
 const tableBody = document.getElementById("tableBody");
 
+
 function render() {
   tableBody.innerHTML = "";
   students.forEach((s, i) => {
