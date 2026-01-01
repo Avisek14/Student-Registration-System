@@ -244,4 +244,4 @@ Created as a student management system project.
 Desktop view
 ------------
 
-![Desktop view](<Screenshot 2026-01-01 144016.png>)
+![Desktop view](Desktop.png)
