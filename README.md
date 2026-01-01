@@ -239,3 +239,9 @@ Created as a student management system project.
 **Need Help?** Open an issue or contact the development team.
 
 **⭐ Star this repo if you find it helpful!**
+
+
+Desktop view
+------------
+
+![Desktop view](<Screenshot 2026-01-01 144016.png>)
